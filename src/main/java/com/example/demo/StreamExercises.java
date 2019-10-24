@@ -11,25 +11,6 @@ import java.util.stream.Stream;
 public class StreamExercises {
 
     public static void main(String[] args) {
-
-//        int number = 10;
-//        System.out.println(sum(number));
-//        System.out.println(factorial(4));
-//        Integer[] tab = {34,1,456,32,56,2};
-//        System.out.println(search(32, tab));
-//        System.out.println(reverse("weivretni avaj"));
-//        System.out.println(maximum(tab));
-//        List<Integer> list = new ArrayList<>();
-//        list.add(2);
-//        list.add(3);
-//        list.add(34);
-//        System.out.println(getElement(list, 2));
-//        System.out.println(average(list));
-//        fizzBuzz(15);
-//        List<String> list = bizzBuzzBis(15);
-//        list.forEach(System.out::println);
-//        System.out.println(isPrime(7));
-//        System.out.println(fibonacci(13));
     }
 
     public static Integer fibonacci(Integer n) {
